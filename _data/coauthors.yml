@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"toschi":
+  - firstname: ["Laura", "L."]
+    url: https://www.unibo.it/sitoweb/laura.toschi
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"munari":
+  - firstname: ["Federico", "F."]
+    url: https://www.unibo.it/sitoweb/federico.munari
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"migliore":
+  - firstname: ["Alessandra", "A."]
+    url: https://www.efi.polimi.it/who-we-are/#awsm-member-116-1004
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"colombo":
+  - firstname: ["Massimo", "M."]
+    url: https://www.som.polimi.it/professor/massimo-gaetano-arturo-colombo/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"rossi-lamastra":
+  - firstname: ["Cristina", "C."]
+    url: https://www.efi.polimi.it/who-we-are/#awsm-member-116-397
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"brostrom":
+  - firstname: ["Anders", "A."]
+    url: https://www.kth.se/profile/andbr/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"franzoni":
+  - firstname: ["Chiara", "C."]
+    url: https://www.efi.polimi.it/chiara-franzoni/
