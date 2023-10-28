@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 <!-- -<i><a href="https://quoteinvestigator.com/2017/12/29/god-data/">Anonymous</a></i> -->
 <!-- </blockquote> -->
 
-I'm a [Junior Assistant Professor](https://www.unibo.it/sitoweb/raffaele.mancuso4/en) at the [University of Bologna](https://www.unibo.it/en/homepage) in the [Circular Innovation Ecosystems](https://site.unibo.it/circularinnovationecosystems) research group.
+I'm a [Junior Assistant Professor](https://www.unibo.it/sitoweb/raffaele.mancuso4/en) in the [Circular Innovation Ecosystems](https://site.unibo.it/circularinnovationecosystems) research group, within the Department of Management of [Alma Mater Studiorum - Università di Bologna](https://www.unibo.it/en/homepage).
 
 Previously I held a Postdoc position at [Politecnico di Milano](https://www.polimi.it/en) in the [Entrepreneurship, Finance, and Innovation](https://www.efi.polimi.it/) research group.
 
