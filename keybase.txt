@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/raffaem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://raffaem.github.io
+  * I am raffaem (https://keybase.io/raffaem) on keybase.
+  * I have a public key with fingerprint 6091 FC09 206B 9910 4866  518D EFF9 F5A4 2902 A8C0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019961266899475a154bfe30085678533295bdec9c0922374b6336a95d38b1667c0a",
+      "fingerprint": "6091fc09206b99104866518deff9f5a42902a8c0",
+      "host": "keybase.io",
+      "key_id": "eff9f5a42902a8c0",
+      "kid": "01019961266899475a154bfe30085678533295bdec9c0922374b6336a95d38b1667c0a",
+      "uid": "8310cd24b9f54c95a20a84cf397d3d19",
+      "username": "raffaem"
+    },
+    "service": {
+      "hostname": "raffaem.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1729749027,
+  "expire_in": 157680000,
+  "prev": "3f5b82672facd12a17eb76e37cde8c7ee4ec5e2e330ef74fa6eeca698b74de55",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUY3gVUWEUsS4Qk444LCju79/uDapxJYZMxFTRszFjux7m7N3B3uXuX
+j5BV1FRsCSrNYEaBgCiZcXIgMpnUSQoJjRxjhtJIiCBBdEloIDG7l/JHM/3s/Dlz
+nvM8z/u877wV4cG6UP2d6cn6VUEfntd33eR09qgbCUUQ5xIKoaQiKBvMXiBHAB7F
+li0JUBIEIzDCMCSCkiTNMDhFsAiBcyLAYJgmSIomMAxlCE4APMPDDIpiFM6RGEay
+DCFgNIeQJMXDLGSCRMlpB7JblpyKakvCDCJqApjkGAaBcZokCYQWgCgyIsHiKAOj
+LM3DqtDh8mgKNRzHeoBZcqmY+rDNxvsP/v+c2ztrR2MIzAsozqnVcJ4hWBRmaZwX
+MYYSMAFhNKIHyE52B1DZMiuKLNgBFZsgFcyTeKDNVWvk3wSzXVIcXu7vntyyS3Hx
+rhz126Eobk+SJlcK3Ro/H3C2f5xsnOQU1FmqijwgeySXE0pCVCavSJo1QqEMhavT
+oEwQKHBLMrBJGoOgSBpWj1YH5KmWmEhs52iUpFCR5QUEZREKcBQJMIoXAM1TAOCA
+JwAKMAwGIoWLLAkAz5IMzVG4AAgC0prLdbqgJEzNydpVT49kd7KKVwZQsaE0CAvR
+6UN1MUtiQ7Lemgl7Krty0fNiWtnD/ZsTpC2fzhC26CGSYY64Hz1RG76vbvddk7+v
+cfHBsZhrE7CFTXHrBqXRHH9Nw59TBdsDIlnim6hZscyQZnklzdKMOFfcmz/6Af/b
+afuT7kPmmi17M5dkf7E1fiQgvJhVfixybDrOeGbGoYt68GzPObp5Tfo33rqhQ1EF
+5wLFiT5/Y3sFUQlt3lm9bc28U/1p7xXFleg3DYRkeVojDr+7ftfXUu7lsz5x7ubT
+64OKBnYe9w8b4j5+4VJ/bMfP0dVHXyurlde8M0hZHaOmq9T4gC8qs3lrXVNi99tz
+FrzR6Q1NblHM5mCya1e87acMj7HDyjxa62w0fNfSef16svzZqdTy5aZkf1U9trJ0
+YTizuypg1dfPS5sSTzrwyiM9pXtMTRenI8arLh0YJkaGLxusf1jLjD9Wff7rlfkv
+R8wdKa+QHM/80PfEbeNL+6sDG2v8XtF47OmJ9oSDU5MtofuG9qewvYqlIftM24Xo
+Et/U4a96j4S4P3o8/76yQX/1EZD65sXMdSf2bvAmNPWY1hVd6z5xIyEkZqGz7aiS
+rvt+wdrkLUuPT95K/yQ+ofDVPTNdgcGln9LW93+53dcfu/J3ermw+uyyrKGp1T22
+ho7uA81tKbqNvtCx/IHH7ozefZBx87zF2ja9ypJe2fB6J5LovWB4Tkd/GY3HBuoj
+S1rbb6XKm+7lmY2trYtzv+0NPplzJax023jkYPlf
+=NxLj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raffaem
+
+==================================================================
+
