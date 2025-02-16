@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://raffaem.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://raffaem.github.io/sitemap.xml
