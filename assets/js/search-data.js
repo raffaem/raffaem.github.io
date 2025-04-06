@@ -51,51 +51,67 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-ois24-paper-acceptance",
-      
-        title: "OIS24 Paper acceptance",
-      
-      description: "Paper accepted at OIS24",
-      section: "Posts",
-      handler: () => {
+        },{id: "post-a-post-with-plotly-js",
         
-          window.location.href = "/blog/2024/OIS24-announcement/";
+          title: "a post with plotly.js",
         
-      },
-    },{id: "post-druid23-presentation",
-      
-        title: "DRUID23 Presentation",
-      
-      description: "paper presentation at WOESPR23",
-      section: "Posts",
-      handler: () => {
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-ois24-paper-acceptance",
         
-          window.location.href = "/blog/2023/DRUID23/";
+          title: "OIS24 Paper acceptance",
         
-      },
-    },{id: "post-woepsr23-presentation",
-      
-        title: "WOEPSR23 Presentation",
-      
-      description: "paper presentation at WOESPR23",
-      section: "Posts",
-      handler: () => {
+        description: "Paper accepted at OIS24",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/OIS24-announcement/";
+          
+        },
+      },{id: "post-druid23-presentation",
         
-          window.location.href = "/blog/2023/WOEPSR23/";
+          title: "DRUID23 Presentation",
         
-      },
-    },{id: "post-can-computers-have-consciousness",
-      
-        title: "Can computers have consciousness?",
-      
-      description: "A TEDx talk by Yoav Shoham",
-      section: "Posts",
-      handler: () => {
+        description: "paper presentation at WOESPR23",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/DRUID23/";
+          
+        },
+      },{id: "post-woepsr23-presentation",
         
-          window.location.href = "/blog/2023/could-computers/";
+          title: "WOEPSR23 Presentation",
         
-      },
-    },{id: "news-we-are-online",
+        description: "paper presentation at WOESPR23",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/WOEPSR23/";
+          
+        },
+      },{id: "post-can-computers-have-consciousness",
+        
+          title: "Can computers have consciousness?",
+        
+        description: "A TEDx talk by Yoav Shoham",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/could-computers/";
+          
+        },
+      },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-we-are-online",
           title: 'We are online!',
           description: "",
           section: "News",},{id: "news-nbstata-now-available-in-the-aur",
