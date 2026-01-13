@@ -107,6 +107,13 @@ ninja.data = [{
           title: 'nbstata now available in the AUR',
           description: "",
           section: "News",},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
